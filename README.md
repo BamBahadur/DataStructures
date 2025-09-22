@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BamBahadur/DataStructures/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0345-reverse-vowels-of-a-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BamBahadur/DataStructures/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BamBahadur/DataStructures/tree/master/0015-3sum) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BamBahadur/DataStructures/tree/master/0015-3sum) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
