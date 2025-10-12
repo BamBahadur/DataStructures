@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BamBahadur/DataStructures/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BamBahadur/DataStructures/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BamBahadur/DataStructures/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/BamBahadur/DataStructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BamBahadur/DataStructures/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
