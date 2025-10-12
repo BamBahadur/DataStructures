@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BamBahadur/DataStructures/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BamBahadur/DataStructures/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/BamBahadur/DataStructures/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BamBahadur/DataStructures/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BamBahadur/DataStructures/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BamBahadur/DataStructures/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/BamBahadur/DataStructures/tree/master/0031-next-permutation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/BamBahadur/DataStructures/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
