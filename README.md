@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/BamBahadur/DataStructures/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/BamBahadur/DataStructures/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/BamBahadur/DataStructures/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BamBahadur/DataStructures/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
@@ -68,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BamBahadur/DataStructures/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BamBahadur/DataStructures/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/BamBahadur/DataStructures/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BamBahadur/DataStructures/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/BamBahadur/DataStructures/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
